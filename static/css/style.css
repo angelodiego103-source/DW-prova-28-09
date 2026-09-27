@@ -1,0 +1,50 @@
+/* pagina home */
+body{
+    background-color: #ffe3d6;
+}
+.h1_home{
+    text-align: center;
+    color: #0F766E;
+}
+.main_home{
+    text-align: center;
+    color: #0b2d39;
+}
+.nav_home{
+    text-align: center;
+}
+.footer_home{
+    text-align: center;
+    color: #3f37c9;
+}
+
+/* pagina blog */
+.h1_blog{
+    text-align: center;
+    color: #0F766E;
+}
+img.centralizada{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nav_blog{
+    text-align: center;
+}
+.main_blog{
+    color: #0b2d39;
+}
+.footer_blog{
+    color: #3f37c9;
+}
+
+/* pagina contato */
+.h1_contato{
+    color: #0F766E;
+}
+.main_contato{
+    color: #0b2d39;
+}
+.footer_contato{
+    color: #3f37c9;
+}
